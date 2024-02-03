@@ -1,4 +1,4 @@
 # FirstProject-Demo
 This is my first Git Repository.
 <br>
-Developer - Venus Solanki.
+Developer - Venus Solanki (Python developer).
